@@ -1,0 +1,14 @@
+# PaymentCondition
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**discountDays** | **Int** |  | 
+**discountPercentage** | **Double** |  | 
+**id** | **String** |  | 
+**name** | **String** |  | 
+**paymentTermDays** | **Int** |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
